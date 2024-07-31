@@ -1,0 +1,16 @@
+CATEGORY,Food,Feeding Expenditure.
+CATEGORY,Transportation.,Movement expenses.
+CATEGORY,Utilities,Bill and electricity
+CATEGORY,healthcare,Personal wellbeing
+CATEGORY,Education,Fees.
+CATEGORY,Travel,Vacation
+CATEGORY,Personal care,Hair-cuts
+CATEGORY,Entertainment,Movies and Hobbies
+EXPENSE,1721775600000,2000.0,Food,Feeding
+EXPENSE,1721775600000,800.0,Transportation.,To and fro.
+EXPENSE,1722034800000,8000.0,Food,just bills
+EXPENSE,1722207600000,15000.0,healthcare,Well-being.
+EXPENSE,1722207600000,100000.0,Food,Tuition
+EXPENSE,1722207600000,150000.0,Travel,Hotels etc
+EXPENSE,1722207600000,2500.0,Personal care,zzzzz
+EXPENSE,1722294000000,50000.0,Entertainment,Streaming services
